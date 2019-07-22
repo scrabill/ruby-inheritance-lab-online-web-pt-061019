@@ -10,4 +10,7 @@ class Student
     knowledge << string_of_knowledge
   end
 
+  def knowledge
+  end
+
 end
