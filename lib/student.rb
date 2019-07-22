@@ -6,4 +6,7 @@ class Student
     knowledge = []
   end
 
+  def learn(string_of_knowledge)
+  end
+
 end
