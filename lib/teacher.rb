@@ -8,7 +8,7 @@ class Teacher < User
 
   def teach
     KNOWLEDGE.sample(1)
-    binding.pry
+    # binding.pry
   end
 
 end
