@@ -8,6 +8,7 @@ class Teacher < User
 
   def teach
     random_knowledge = KNOWLEDGE.sample(1)
+    random_knowledge
     # binding.pry
   end
 
