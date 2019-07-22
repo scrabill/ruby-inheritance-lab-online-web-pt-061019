@@ -11,6 +11,7 @@ class Student
   end
 
   def knowledge
+      knowledge
   end
 
 end
