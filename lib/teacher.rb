@@ -1,4 +1,5 @@
 require_relative "./user.rb"
+require "pry"
 
 
 class Teacher < User
